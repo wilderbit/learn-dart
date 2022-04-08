@@ -1,1 +1,2 @@
-A simple command-line application.
+- A simple command-line application.
+- This repo contains code related to Dart programming language and documents.
